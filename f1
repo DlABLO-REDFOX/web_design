@@ -1,0 +1,105 @@
+<html>
+<head> 
+<style>
+body {
+   background-position: center;
+   background-size: cover;
+}
+ul {
+   float: right;
+}
+ul li {
+   display: inline-block;
+}
+ul li a {
+   text-decoration: none;
+   padding: 15px;
+   margin: 6px;
+}
+b ul {
+   float: right;
+}
+b ul li {
+   display: inline-block;
+}
+b ul li a {
+   text-decoration: none;
+   padding: 7px;
+   color: purple;
+   background-color: violet;
+}
+center b a {
+   text-decoration: none;
+   padding: 23px;
+   border: 2px solid;
+   border-radius: 100px;
+   color: white;
+}
+center b a:hover {
+   padding: 23px;
+   border: 2px solid;
+   border-radius: 100px;
+   background-color: white;
+   color: purple;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.imgbox {
+    display: grid;
+    height: 100%;
+}
+.center-fit {
+    max-width: 100%;
+    max-height: `100vh;
+    margin: auto;
+}
+</style>
+</head>
+<body background="C:\Users\ASUS\Desktop\WEB DESIGN\BG.png">
+<img src="C:\Users\ASUS\Desktop\WEB DESIGN\LOGO.png" height=200 width=555> 
+<ul>
+<li> <a href=""> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\HOME.png" height="33" width="33"> </a> </li>
+<li> <a href=""> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\BLOG.png" height="33" width="33"> </a> </li>
+<li> <a href="C:\Users\ASUS\Desktop\WEB DESIGN\WEBSITE.html" download> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\DOWNLOAD APP.png" height="33" width="33"> </a> </li>
+<li> <a href=""> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\HELP CENTER.png" height="33" width="33"> </a> </li>
+<li> <a href=""> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\TERMS & CONDITIONS.png" height="33" width="33"> </a> </li>
+<li> <a href=""> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\PRIVACY POLICY.png" height="33" width="33"> </a> </li>
+</ul>
+<br>
+<br><br>
+<center> <img src="C:\Users\ASUS\Desktop\WEB DESIGN\TEXT 1.png" width=700 height=300> </center>
+<br>
+<center> <b> <a href="C:\Users\ASUS\Desktop\WEB DESIGN\WEBSITE.html" download> DOWNLOAD NOW </a> </b> </center>
+<div class="imgbox">
+<img class="center-fit" src="C:\Users\ASUS\Desktop\WEB DESIGN\ABOUT.png"> 
+<br> 
+<br> <br>
+<img class="center-fit" src="C:\Users\ASUS\Desktop\WEB DESIGN\FEATURES.png"> 
+<br>
+<br>
+<br> <br>
+<img class="center-fit" src="C:\Users\ASUS\Desktop\WEB DESIGN\HIW.png"> 
+<br> <br> <br>
+<img class="center-fit" src="C:\Users\ASUS\Desktop\WEB DESIGN\FEET.png">
+</div>
+<br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br>
+<br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br>
+<br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br>
+<br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br>
+<br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br><br> <br> <br> <br>
+<br> <br> 
+<b>
+<ul>
+<li> <a href=""> HOME </a> </li>
+<li> <a href=""> BLOG </a> </li>
+<li> <a href="C:\Users\ASUS\Desktop\WEB DESIGN\WEBSITE.html" download> DOWNLOAD APP </a> </li>
+<li> <a href=""> HELP CENTER </a> </li>
+<li> <a href="">TERMS & CONDITIONS </a> </li>
+<li> <a href=""> PRIVACY POLICY </a> </li>
+</ul>
+</b> <br> <br>
+<i> <b> CHAT N DATE &copy; 2022 All RIGHTS RESERVED </i> </b>
+</body>
+</html>
